@@ -45,7 +45,12 @@ Phone :
 </label>  
 <input type="text" name="country code"  value="+1" size="2"/>   
 <input type="text" name="phone" size="10"/> <br> <br>  
-Address  
+Address line 1
+<br>  
+<textarea cols="80" rows="5" value="address">  
+</textarea>  
+<br> <br>  
+Address line 2
 <br>  
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
