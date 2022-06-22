@@ -47,12 +47,12 @@ Phone :
 <input type="text" name="phone" size="10"/> <br> <br>  
 Address line 1
 <br>  
-<textarea cols="80" rows=2" value="address">  
+<textarea cols="60" rows=2" value="address">  
 </textarea>  
 <br> <br>  
 Address line 2
 <br>  
-<textarea cols="80" rows="2" value="address">  
+<textarea cols="60" rows="2" value="address">  
 </textarea>  
 <br> <br>  
 Email:  
